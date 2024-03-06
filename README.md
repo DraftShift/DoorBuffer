@@ -6,4 +6,4 @@ Simple printable doorbuffer to claw back 20mm without upgrading the front frame 
 
 ### This build assumes you are reusing your old stock voron doors and will most likely not fit other hinges!
 
-<img src="https://github.com/Stealthchanger/DoorBuffer/blob/main/Media/assembled.png" height="300" />
+<img src="https://github.com/Stealthchanger/DoorBuffer/blob/main/Media/assembled.png" height="600" />
