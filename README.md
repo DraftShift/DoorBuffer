@@ -1,5 +1,5 @@
 
-# <img src="https://github.com/Stealthchanger/DoorBuffer/blob/main/Media/Stealthchanger_DoorBuffer.png" align="top" height="100" /> DoorBuffer (Beta)
+# <img src="https://github.com/Stealthchanger/DoorBuffer/blob/main/Media/Stealthchanger_DoorBuffer.png" align="top" height="100" /> DoorBuffer
 Simple printable doorbuffer to claw back 20mm without upgrading the front frame to 2040 
 
 ## WARNING: This frame is designed with SC Modular Dock ONLY, I can not guarantee this works with other systems! Some measurements may need tweaking.
