@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'Doorbuffer_Adapters.step',
-/* time_stamp */ '2024-09-12T11:06:11-06:00',
+/* time_stamp */ '2024-09-12T11:11:23-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -38,12 +38,12 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 );
 #15=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#13,#4970);
 #16=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#14,#4971);
-#17=NEXT_ASSEMBLY_USAGE_OCCURRENCE('1515_doorbuffer_adapter:1',
-'1515_doorbuffer_adapter:1','1515_doorbuffer_adapter:1',#4976,#4977,
-'1515_doorbuffer_adapter:1');
-#18=NEXT_ASSEMBLY_USAGE_OCCURRENCE('2020_doorbuffer_adapter:1',
-'2020_doorbuffer_adapter:1','2020_doorbuffer_adapter:1',#4976,#4978,
-'2020_doorbuffer_adapter:1');
+#17=NEXT_ASSEMBLY_USAGE_OCCURRENCE('1515_doorbuffer_adapter_x2:1',
+'1515_doorbuffer_adapter_x2:1','1515_doorbuffer_adapter_x2:1',#4976,#4977,
+'1515_doorbuffer_adapter_x2:1');
+#18=NEXT_ASSEMBLY_USAGE_OCCURRENCE('2020_doorbuffer_adapter_x2:1',
+'2020_doorbuffer_adapter_x2:1','2020_doorbuffer_adapter_x2:1',#4976,#4978,
+'2020_doorbuffer_adapter_x2:1');
 #19=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#4973,#21);
 #20=SHAPE_REPRESENTATION_RELATIONSHIP('SRR','None',#4974,#22);
 #21=ADVANCED_BREP_SHAPE_REPRESENTATION('',(#25),#4957);
@@ -5280,27 +5280,29 @@ SOLID_ANGLE_UNIT()
 #4975=PRODUCT_DEFINITION_CONTEXT('part definition',#4986,'design');
 #4976=PRODUCT_DEFINITION('Doorbuffer Adapters','Doorbuffer Adapters v2',
 #4979,#4975);
-#4977=PRODUCT_DEFINITION('1515_doorbuffer_adapter',
-'1515_doorbuffer_adapter',#4980,#4975);
-#4978=PRODUCT_DEFINITION('2020_doorbuffer_adapter',
-'2020_doorbuffer_adapter',#4981,#4975);
+#4977=PRODUCT_DEFINITION('1515_doorbuffer_adapter_x2',
+'1515_doorbuffer_adapter_x2',#4980,#4975);
+#4978=PRODUCT_DEFINITION('2020_doorbuffer_adapter_x2',
+'2020_doorbuffer_adapter_x2',#4981,#4975);
 #4979=PRODUCT_DEFINITION_FORMATION('',$,#4988);
 #4980=PRODUCT_DEFINITION_FORMATION('',$,#4989);
 #4981=PRODUCT_DEFINITION_FORMATION('',$,#4990);
 #4982=PRODUCT_RELATED_PRODUCT_CATEGORY('Doorbuffer Adapters v2',
 'Doorbuffer Adapters v2',(#4988));
-#4983=PRODUCT_RELATED_PRODUCT_CATEGORY('1515_doorbuffer_adapter',
-'1515_doorbuffer_adapter',(#4989));
-#4984=PRODUCT_RELATED_PRODUCT_CATEGORY('2020_doorbuffer_adapter',
-'2020_doorbuffer_adapter',(#4990));
+#4983=PRODUCT_RELATED_PRODUCT_CATEGORY('1515_doorbuffer_adapter_x2',
+'1515_doorbuffer_adapter_x2',(#4989));
+#4984=PRODUCT_RELATED_PRODUCT_CATEGORY('2020_doorbuffer_adapter_x2',
+'2020_doorbuffer_adapter_x2',(#4990));
 #4985=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#4986);
 #4986=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #4987=PRODUCT_CONTEXT('part definition',#4986,'mechanical');
 #4988=PRODUCT('Doorbuffer Adapters','Doorbuffer Adapters v2',$,(#4987));
-#4989=PRODUCT('1515_doorbuffer_adapter','1515_doorbuffer_adapter',$,(#4987));
-#4990=PRODUCT('2020_doorbuffer_adapter','2020_doorbuffer_adapter',$,(#4987));
+#4989=PRODUCT('1515_doorbuffer_adapter_x2','1515_doorbuffer_adapter_x2',
+$,(#4987));
+#4990=PRODUCT('2020_doorbuffer_adapter_x2','2020_doorbuffer_adapter_x2',
+$,(#4987));
 #4991=PRESENTATION_STYLE_ASSIGNMENT((#4993));
 #4992=PRESENTATION_STYLE_ASSIGNMENT((#4994));
 #4993=SURFACE_STYLE_USAGE(.BOTH.,#4995);
