@@ -1,6 +1,6 @@
 An extended bbt hdmi-5 mount for use with the [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) 
-and [DraftShift Design](https://github.com/DraftShift) door buffer v2 [(Printables Link)](https://www.printables.com/model/1066444)].
+and [DraftShift Design](https://github.com/DraftShift) [Door Buffer v2](https://github.com/DraftShift/DoorBuffer) [(Printables Link)](https://www.printables.com/model/1066444)].
 
 Print with regular voron settings.
 
-Remixed from @DETMan's BTT HDMI5 Mount for Clicky Clack Door for use with the stealthchanger Door Buffer [(Printables Link)](https://www.printables.com/model/861544)]. Whom remixed it from @EDnation [(Printables Link)](https://www.printables.com/model/787236)].
+Remixed from @DETMan's BTT HDMI5 Mount for Clicky Clack Door for use with the DraftShift Design Door Buffer [(Printables Link)](https://www.printables.com/model/861544)]. Whom remixed it from @EDnation [(Printables Link)](https://www.printables.com/model/787236)].
