@@ -1,4 +1,4 @@
-# Doorbuffer Side Door
+# Doorbuffer Side Door Latches
 
 Swap your door with your sidepanel with two door-buffers and some clips.
 
